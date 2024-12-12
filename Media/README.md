@@ -46,3 +46,5 @@ The dataset reflects a strong predominance of English-language movies, with a so
 ![overall_distribution.png](media_overall_distribution.png)
 ![cluster_distribution.png](media_Cluster_distribution.png)
 ![correlation_heatmap.png](media_correlation_matrix.png)
+![media_quality_distribution.png](media_quality_distribution.png)
+![media_repeatability_distribution.png](media_repeatability_distribution.png)
