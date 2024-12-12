@@ -36,6 +36,6 @@ The following visualizations were generated based on the dataset:
 
 
 ## Visualizations
-![book_id_distribution.png](book_id_distribution.png)
+![goodreads_book_id_distribution.png](goodreads_book_id_distribution.png)
 ![goodreads_book_id_distribution.png](goodreads_book_id_distribution.png)
 ![correlation_heatmap.png](correlation_heatmap.png)
