@@ -1,4 +1,4 @@
-The provided data summary offers a comprehensive overview of a collection of media items recorded in a dataset. Here’s a detailed analysis of its various components:
+The provided data summary offers a comprehensive overview of a collection of media items recorded in a dataset. Hereâ€™s a detailed analysis of its various components:
 
 ### Summary Analysis
 
@@ -31,7 +31,7 @@ The provided data summary offers a comprehensive overview of a collection of med
 
 #### 7. **Correlation Analysis**
 - **Overall Correlation**: The strongest correlation (0.83) is between overall ratings and quality, implying that higher perceived quality consistently translates to better overall scores.
-- **Moderate Correlation**: There’s a moderate correlation (0.51) between overall ratings and repeatability, indicating that while some viewers may enjoy repeating certain media, it is not the predominant experience.
+- **Moderate Correlation**: Thereâ€™s a moderate correlation (0.51) between overall ratings and repeatability, indicating that while some viewers may enjoy repeating certain media, it is not the predominant experience.
 - **Weak Correlation**: The weak correlation (0.31) between quality and repeatability indicates less consistent viewer behavior regarding revisiting media they judge to be of high quality.
 
 #### 8. **Clustering of Data**
@@ -40,3 +40,9 @@ The provided data summary offers a comprehensive overview of a collection of med
 
 ### Conclusion
 The dataset reflects a strong predominance of English-language movies, with a solid blend of other languages. The quality ratings and overall satisfaction appear moderately aligned, while repeatability shows less correlation with quality perceptions, indicating viewing habits typical for casual media consumption. Inefficiencies are evident in missing values particularly in the 'by' field, indicating potential areas for data improvement. The clustering suggests avenues for targeted campaigns or analysis based on audience engagement trends.
+
+
+## Visualizations
+![overall_distribution.png](media_overall_distribution.png)
+![quality_distribution.png](media_quality_distribution.png)
+![correlation_heatmap.png](media_correlation_correlation_matrix.png)
