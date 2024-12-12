@@ -56,3 +56,9 @@ The provided data summary offers a comprehensive overview of various aspects rel
 ### Conclusions
 
 This analysis indicates that happiness is a complex construct influenced by multiple societal factors. The most significant predictors of happiness, based on the data, appear to be economic wealth (Log GDP per capita), social support, healthy life expectancy, and perceptions of freedom and corruption. While Argentina is the most frequently studied country, the diversity of the dataset presents an opportunity for further analysis to uncover specific regional or cultural influences on happiness. The presence of missing values in various variables also highlights areas where further data collection could enhance understanding. Overall, this summary provides a solid foundational basis for deeper investigations into the determinants of happiness across different demographics and geographies.
+
+## Visualizations
+
+![year_distribution.png](year_distribution.png)
+![Life Ladder_distribution.png](Life Ladder_distribution.png)
+![correlation_heatmap.png](correlation_heatmap.png)
