@@ -4,7 +4,7 @@
 ### Dataset Story
 Here is the summary of the dataset:
 
-The dataset provides a comprehensive overview of 10,000 books, primarily from Goodreads, encompassing various attributes that outline their popularity and reception. Here�s a storytelling summary based on the key points:
+The dataset provides a comprehensive overview of 10,000 books, primarily from Goodreads, encompassing various attributes that outline their popularity and reception. Here's a storytelling summary based on the key points:
 
 ### Key Highlights:
 
@@ -14,7 +14,7 @@ The dataset provides a comprehensive overview of 10,000 books, primarily from Go
 
 3. **Popularity and Ratings**: 
    - The average rating across the dataset stands at approximately 4.00, indicating a generally favorable reception among readers.
-   - With an impressive ratings count averaging around 54,000 per book, certain titles have garnered immense attention, as evidenced by record ratings�one book received as many as 1.48 million ratings.
+   - With an impressive ratings count averaging around 54,000 per book, certain titles have garnered immense attention, as evidenced by record ratings one book received as many as 1.48 million ratings.
 
 4. **Engagement Levels**: The dataset indicates a considerable amount of interaction, with an average of nearly 3,000 text reviews per book, suggesting that many readers are not only rating but actively engaging with the material.
 
