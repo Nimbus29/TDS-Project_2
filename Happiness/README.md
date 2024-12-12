@@ -62,7 +62,7 @@ This analysis indicates that happiness is a complex construct influenced by mult
 ![year_distribution.png](happiness_year_distribution.png)
 ![Life Ladder_distribution.png](happiness_Life_Ladder_distribution.png)
 ![correlation_heatmap.png](happiness_correlation_matrix.png)
-![Freedom to make life choices_distribution.png](happiness_Freedom to make life choices_distribution.png)
+![Freedom to make life choices_distribution.png](happiness_Freedom_to_make_life_choices_distribution.png)
 ![happiness_Generosity_distribution.png](happiness_Generosity_distribution.png)
 ![Perceptions of corruption_distribution.png](happiness_Perceptions_of_corruption_distribution.png)
 ![happiness_Social_support_distribution.png](happiness_Social_support_distribution.png)
