@@ -36,6 +36,11 @@ The following visualizations were generated based on the dataset:
 
 
 ## Visualizations
-![goodreads_average_rating_distribution.png](goodreads_book_id_distribution.png)
+![goodreads_book_id_distribution.png](goodreads_book_id_distribution.png)
 ![goodreads_best_book_id_distribution.png](goodreads_best_book_id_distribution.png)
 ![correlation_heatmap.png](correlation_heatmap.png)
+![goodreads_average_rating_distribution.png](goodreads_average_rating_distribution.png)
+![goodreads_books_count_distribution.png](goodreads_books_count_distribution.png)
+![goodreads_cluster_distribution.png](goodreads_Cluster_distribution.png)
+![goodreads_book_id_distribution.png](goodreads_book_id_distribution.png)
+![goodreads_work_id_distribution.png](goodreads_work_id_distribution.png)
