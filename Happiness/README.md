@@ -60,5 +60,5 @@ This analysis indicates that happiness is a complex construct influenced by mult
 ## Visualizations
 
 ![year_distribution.png](happiness_year_distribution.png)
-![Life Ladder_distribution.png](happiness_Life Ladder_distribution.png)
+![Life Ladder_distribution.png](happiness_Life_Ladder_distribution.png)
 ![correlation_heatmap.png](happiness_correlation_matrix.png)
