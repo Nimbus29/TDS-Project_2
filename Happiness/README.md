@@ -64,6 +64,6 @@ This analysis indicates that happiness is a complex construct influenced by mult
 ![correlation_heatmap.png](happiness_correlation_matrix.png)
 ![Freedom to make life choices_distribution.png](happiness_Freedom to make life choices_distribution.png)
 ![happiness_Generosity_distribution.png](happiness_Generosity_distribution.png)
-![Perceptions of corruption_distribution.png](happiness_Perceptions of corruption_distribution.png)
+![Perceptions of corruption_distribution.png](happiness_Perceptions_of_corruption_distribution.png)
 ![happiness_Social_support_distribution.png](happiness_Social_support_distribution.png)
-![happiness_Log GDP per capita_distribution.png](happiness_Log GDP per capita_distribution.png)
+![happiness_Log_GDP_per_capita_distribution.png](happiness_Log_GDP_per_capita_distribution.png)
